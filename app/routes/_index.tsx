@@ -4,7 +4,7 @@ import { MainSection } from "~/components/organism/main-section";
 import { NavbarDesktop } from "~/components/organism/navbar";
 
 export const meta: MetaFunction = () => {
-  return [{ title: "New Remix App" }, { name: "description", content: "Welcome to Remix!" }];
+  return [{ title: "Kevin Adiwiguna" }, { name: "description", content: "Portofolio kevinadiwiguna" }];
 };
 
 export default function Index() {
